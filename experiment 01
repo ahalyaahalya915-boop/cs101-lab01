@@ -1,0 +1,5 @@
+git clone https:/github.com/ahalyaahalya915-boop/cs101-lab01
+cd cs101-lab01
+git remote -v
+git status
+git log --oneline -5
